@@ -1,0 +1,12 @@
+{
+  "name": "midge",
+  "description": "Mini Injector",
+  "author": "Christian Blaschke <mail@platdesign.de>",
+  "version": "0.0.0",
+  "dependencies": {},
+  "repository": "",
+  "devDependencies": {
+    "code": "^3.0.1",
+    "mocha": "^2.5.3"
+  }
+}
