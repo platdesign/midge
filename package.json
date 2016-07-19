@@ -3,10 +3,24 @@
   "description": "Mini Injector",
   "author": "Christian Blaschke <mail@platdesign.de>",
   "version": "0.0.0",
-  "dependencies": {},
-  "repository": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "git@github.com:platdesign/midge.git",
+  "homepage": "https://github.com/platdesign/midge",
+
   "devDependencies": {
     "code": "^3.0.1",
     "mocha": "^2.5.3"
-  }
+  },
+  "keywords": [
+    "di",
+    "dependency injection",
+    "injector",
+    "inject",
+    "injection",
+    "nodejs",
+    "javascript",
+    "ilovejs"
+  ]
 }
