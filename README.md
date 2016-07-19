@@ -87,7 +87,7 @@ Injects the given function while executing it with `apply`.
 - `locals` - Optional object containing values, which will be used before before cache and factory.
 
 
-### `injector.instatntiate(ctor, [locals])`
+### `injector.instantiate(ctor, [locals])`
 
 Injects the given constructor while instantiating it with `new`
 
