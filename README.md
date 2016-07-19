@@ -97,4 +97,4 @@ Injects the given constructor while instantiating it with `new`
 
 #Author
 
-Christian Blaschke <mail@platdesign.de>
+Twitter: [@platdesign](https://twitter.com/platdesign)
