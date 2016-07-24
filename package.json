@@ -2,7 +2,7 @@
   "name": "midge",
   "description": "Mini Injector",
   "author": "Christian Blaschke <mail@platdesign.de>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "test": "mocha"
   },
