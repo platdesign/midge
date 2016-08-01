@@ -10,7 +10,7 @@
   "homepage": "https://github.com/platdesign/midge",
   "devDependencies": {
     "code": "^3.0.1",
-    "mocha": "^2.5.3"
+    "mocha": "^3.0.0"
   },
   "keywords": [
     "di",
